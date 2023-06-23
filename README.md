@@ -28,7 +28,7 @@ I'm a software engineer that loves to work with challenging and creative project
 
 ## Work Experience
 
-**Front-end Developer** - T10 - December 2022 - April 2023
+**Front-end Developer** - T10 - December 2022 - Today
 
 > My role in the company is to contribute to the success of several projects in which I am allocated, using different technologies and working with different clients and teams. I gained experience in languages like C# with .NET and frameworks like React with NextJS, Redux and Jest. I learned about different processes, design standards and documentation to ensure projects are delivered with quality and on time.
 
