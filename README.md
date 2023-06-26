@@ -9,7 +9,7 @@
 **Linkedin:** [daniilomello](https://www.linkedin.com/in/daniilomello/)
 
 ## About me
-I'm a software engineer that loves to work with challenging and creative projects. As a programmer, I'm in a constant search for better practices and also experimenting new things.
+I have a preference for remote jobs, using React and Node, or any technology involving Javascript and Typescript. I'm also open to working with other technologies. I'm open to learning and working with other technologies whenever required
 
 ## All Skils
 
@@ -28,19 +28,44 @@ I'm a software engineer that loves to work with challenging and creative project
 
 ## Work Experience
 
-**Front-end Developer** at T10 - 2022 - Today
+**Front-end Developer** - T10 - December 2022 - April 2023
 
-> My role in the company is to contribute to the success of several projects in which I am allocated, using different technologies and working with different clients and teams. I gained experience in languages like C# with .NET and frameworks like React with NextJS, Redux and Jest. I learned about different processes, design standards and documentation to ensure projects are delivered with quality and on time.
+> - Working on E-commerce NextJS with Redux Application.
+> - Writing scalable code using Typescript and clean code practices.
+> - Working on code reviews and pair programming to ensure best practices and code quality.
+> - Participating in plannings, and estimating the development time of new features.
+> - Describing tasks and test cases to facilitate the work of QA teams.
+> - Refactoring and improving legacy code, applying clean code and documentation best practices.
+> - Using styling libs like Material UI and Styled Components.
+> - Implementing features in applications using Redux.
+> - Working as a team using Agile and Scrum.
+> - Working on legacy code with C# and .NET
 
-**Front-end Developer** at R8 - 2019 - 2022
+**Front-end Developer** - Gabarita - January 2021 - December 2022
 
-> I started my journey creating WordPress websites, something I had been doing for a few years. Over time, I started to develop websites for e-commerce platforms using Twig and, later, I trained other people to help me with the development part.
+> - Developing a single page application (SPA) with ReactJS, using NextJS.
+> - Writing scalable code using Typescript and clean code practices.
+> - Working on code reviews and pair programming to ensure best practices and code quality.
+> - Participating in plannings, and estimating the development time of new features.
+> - Using styling Styled Components.
+> - Working as a team using agile and Scrum.
 
-> Then I took on a broader role, helping with project management, improving my communication, attending meetings, negotiating with clients and managing projects. I believe that this evolution in my career has been of great value for the company and for my own professional growth.
+**Front-end Developer** - R8 - December 2019 - April 2022
 
-**Front-end Developer** at To be - 2016 - 2018
+> - Developing websites using HTML, CSS with SASS and Atomic Design, and Javascript. Ensuring the best user experience (UX), with a high-fidelity user interface (UI).
+> - Ensuring SEO best practices and website performance.
+> - Developing custom WordPress themes and websites.
+> - Creating Landing Pages for commercial actions, integrated with Google Tag Manager, Analytics, and other tools such as RD Station.
+> - Testing, versioning (Git), and deploying websites on web servers.
+> - Supports and maintenance of MySQL databases.
+> - Ensuring best practices for development, security, and project documentation.
+> - Working on tasks and projects using Trello, Kanban, and Slack for Communication.
 
-> As a Junior Developer at the company, my initial role was focused on the static part of the website development, using basic technologies such as HTML, (S)CSS or SASS, Javascript and jQuery. Over time, I improved and started to develop sites in Wordpress using PHP. My goal is always to deliver quality work, with attention to detail, I learned a lot about UI & UX, and microinteractions.
+**Front-end Developer** - To be - December 2016 - April 2018
+
+> - Developing websites using HTML, CSS with SASS and Atomic Design, and Javascript. Ensuring the best user experience (UX), with a high-fidelity user interface (UI).
+> - Ensuring SEO best practices and website performance.
+> - Developing custom WordPress themes and websites.
 
 
 ## Education
