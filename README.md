@@ -28,6 +28,10 @@ I have a preference for remote jobs, using React and Node, or any technology inv
 
 ## Work Experience
 
+**Front-end Developer** - Greenlegis - April 2023 - Current Day
+> - Working on NextJS with Strapi.
+> - Working on AWS with LocalStack and Docker Composer.
+
 **Front-end Developer** - T10 - December 2022 - April 2023
 
 > - Working on E-commerce NextJS with Redux Application.
